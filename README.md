@@ -13,7 +13,7 @@
   </p>
   <ul>
     <li>✍️ I'm currently learning the Java programming language.</li>
-    <li>⌨️ I'm currently working on 2D game.</li>
+    <li>⌨️ I'm currently working on something cool.</li>
     <li>💻 I'm interested in Mobile development and game development.</li>
   </ul>
   <b>Connect with me : </b>
