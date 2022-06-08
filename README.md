@@ -12,7 +12,7 @@
     and also i am addicted to naps...😴 oh i forgot, i love coffee too.
   </p>
   <ul>
-    <li>✍️ I'm currently learning web development.</li>
+    <li>✍️ I'm currently learning Mobile development.</li>
     <li>⌨️ I'm currently working on something cool.</li>
     <li>💻 I'm interested in Mobile development and game development.</li>
   </ul>
