@@ -22,17 +22,3 @@
     <img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>
   </a>
 </div>
-<div>
-  <h2><b>My acc stats </b></h2>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar-Suhendra&theme=github_dark&show_icons=true&border_radius=10&layout=compact"
-    />
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Amar-Suhendra&theme=github_dark&show_icons=true&border_radius=10&hide=issues"
-    />
-  </a>
-</div>
