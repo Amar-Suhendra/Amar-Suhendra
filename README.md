@@ -22,6 +22,6 @@
     <img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>
   </a>
     <a href="https://www.linkedin.com/in/amar-suhendra-425566224/" target="_blank">
-    <img src="https://icons8.com/icon/13930/linkedin"/>
+    <img src="https://img.icons8.com/color/48/null/linkedin.png"/>
   </a>
 </div>
