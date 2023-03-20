@@ -21,4 +21,7 @@
   <a href="https://www.instagram.com/suhendra.amar/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>
   </a>
+    <a href="https://www.linkedin.com/in/amar-suhendra-425566224/" target="_blank">
+    <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG2.png"/>
+  </a>
 </div>
